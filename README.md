@@ -1,5 +1,6 @@
 # Rotary_Encoder_KY-040_Fixed
 This is a state version of reading a KY-040, It offers full accuracy unlike other solutions.
+(not my code)
 
 
 Usage Example:
